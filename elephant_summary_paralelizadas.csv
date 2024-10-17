@@ -1,0 +1,21 @@
+Versão,Tamanho,Tempo Médio (s),Intervalo de Confiança (s)
+mandelbrot_pth,16,0.0009345,2.07e-05
+mandelbrot_pth,32,0.0011473,2.76e-05
+mandelbrot_pth,64,0.0020033,3.24e-05
+mandelbrot_pth,128,0.005542,0.000104
+mandelbrot_pth,256,0.019596,0.000394
+mandelbrot_pth,512,0.0730547,7.07e-05
+mandelbrot_pth,1024,0.287555,0.00029
+mandelbrot_pth,2048,1.2137,0.0289
+mandelbrot_pth,4096,5.19052,0.00892
+mandelbrot_pth,8192,20.7782,0.015
+mandelbrot_omp,16,0.0009115,3.08e-05
+mandelbrot_omp,32,0.001307,0.000115
+mandelbrot_omp,64,0.0020722,3.97e-05
+mandelbrot_omp,128,0.0054948,4.57e-05
+mandelbrot_omp,256,0.0222073,3.29e-05
+mandelbrot_omp,512,0.085662,0.000273
+mandelbrot_omp,1024,0.3319,0.00144
+mandelbrot_omp,2048,1.31434,0.00569
+mandelbrot_omp,4096,5.19406,0.00595
+mandelbrot_omp,8192,20.7276,0.0239
